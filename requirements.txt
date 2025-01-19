@@ -29,3 +29,4 @@ SafoneAPI
 kurigram==2.1.36
 #git+https://github.com/KurimuzonAkuma/pyrogram
 git+https://github.com/Vivekkumar-IN/pykeyboard
+git+https://github.com/Vivekkumar-IN/TheApi.git
